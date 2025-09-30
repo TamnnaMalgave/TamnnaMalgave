@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Tamanna Malgave  
+# Hi there 👋 I'm Tamnna Malgave  
 
 🎓 B.Tech IT Student @ WCE Sangli  
 ☕ Java Developer | Spring Boot | Backend Systems  
