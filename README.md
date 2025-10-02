@@ -3,7 +3,7 @@
 🎓 B.Tech IT Student @ WCE Sangli  
 ☕ Java Developer | Spring Boot | Backend Systems  
 💻 Exploring MERN Stack • Android App Development • AI/ML  
-🤖 Interests: Image Processing, Neural Networks, Parallel Computing  
+🤖 Interests: Image Processing, Neural Networks  
 🏆 Intern @ Eaton | Passionate about scalable & impactful solutions  
 
 ---
